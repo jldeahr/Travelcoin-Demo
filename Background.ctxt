@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=Length\ Width
+comment0.target=Background(int,\ int)
+comment0.text=\r\n\ Constructs\ the\ background\ object\r\n\ @param\r\n\ Length\ -\ the\ length\ of\ the\ object\r\n\ Width\ -\ the\ width\ of\ the\ object\r\n
+comment1.params=g2
+comment1.target=void\ draw(java.awt.Graphics2D)
+comment1.text=\r\n\ Method\ to\ make\ the\ background\ object.\r\n\r\n
+numComments=2

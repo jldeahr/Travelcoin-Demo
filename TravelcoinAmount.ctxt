@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=title\ x\ y
+comment0.target=TravelcoinAmount(java.lang.String,\ int,\ int)
+comment0.text=\r\n\ Constructs\ the\ background\ object\r\n\ @param\r\n\ x\ the\ x-coordinate\ of\ the\ top-left\ corner\r\n\ y\ the\ y-coordinate\ of\ the\ top-left\ corner\r\n\ title\ the\ string\ which\ will\ be\ displayed\r\n
+comment1.params=g2
+comment1.target=void\ draw(java.awt.Graphics2D)
+comment1.text=\r\n\ Method\ to\ make\ a\ travelcoin\ amount\ string\r\n\r\n
+numComments=2

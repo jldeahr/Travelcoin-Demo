@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=x\ y\ w\ h
+comment0.target=Logo(int,\ int,\ int,\ int)
+comment0.text=\r\n\ Constructs\ the\ logo\ object\r\n\ @param\r\n\ x\ the\ x-coordinate\ of\ the\ top-left\ corner\r\n\ y\ the\ y-coordinate\ of\ the\ top-left\ corner\r\n
+comment1.params=g2
+comment1.target=void\ draw(java.awt.Graphics2D)
+comment1.text=\r\n\ Method\ to\ make\ the\ logo\ object\r\n\r\n
+numComments=2
